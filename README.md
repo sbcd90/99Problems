@@ -1,4 +1,4 @@
 99Problems
 ==========
 
-Getting started with Haskell
+Getting started with Haskell.
