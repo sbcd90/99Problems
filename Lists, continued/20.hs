@@ -1,0 +1,1 @@
+removeAt num list = (list !! (num - 1), (take (num - 1) list) ++ (drop num list))

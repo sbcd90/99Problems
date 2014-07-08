@@ -1,0 +1,1 @@
+split list num = [take num list, drop num list]

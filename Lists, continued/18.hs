@@ -1,0 +1,1 @@
+slice list start end = [x | x <- (take end list), y <- (drop (start - 1) list), x==y]
