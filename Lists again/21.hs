@@ -1,0 +1,1 @@
+insertAt element list num = (take (num - 1) list ) ++ (element : (drop (num - 1) list)) 
